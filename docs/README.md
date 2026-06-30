@@ -124,13 +124,7 @@ Telegram Desktop → MTProto Proxy (127.0.0.1:1443) → WebSocket → Telegram D
 - Apple Silicon macOS 11.0+
 - Linux x86_64 (требуется AppIndicator для системного трея)
 
-## Контрибьюторы
 
-Спасибо всем, кто помогает развивать проект ❤️
-
-<a href="https://github.com/Flowseal/tg-ws-proxy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Flowseal/tg-ws-proxy" />
-</a>
 
 ## Лицензия
 
